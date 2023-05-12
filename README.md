@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **Im not gay**
 
-- 🎈 [Click here to check everything about me](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+- 🎈 [Click here to have sex with hippopotamus](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
