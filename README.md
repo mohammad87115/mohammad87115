@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad87115&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad87115" /> </p>
 
 
-- 🔭 I’m currently working on a Complete set of tools in a website for discord without ratelimits [here](http://discord-tools.rf.gd)
+- 🔭 I’m currently not doing anything public but we are developing an OrdakBot selfbot that is private right now
 
 - 👨‍💻 All of my projects are available at [my github page](https://github.com/mohammad87115)
 
