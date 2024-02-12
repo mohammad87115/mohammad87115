@@ -12,8 +12,5 @@
 
 - 🎈 [Click here to have sex with hippopotamus](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
-<p align="left">
-<a href="https://discord.gg/6985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6985" height="30" width="40" /></a>
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad87115&show_icons=true&locale=en" alt="mohammad87115" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad87115&show_icons=true&locale=en" alt="mohammad87115" /></p>
