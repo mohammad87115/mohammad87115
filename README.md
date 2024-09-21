@@ -9,6 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammad87115&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad87115&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-[![](https://komarev.com/ghpvc/?username=mohammad87115&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=mohammad87115&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
