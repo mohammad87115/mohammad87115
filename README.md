@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/mohammad87115">
-    <img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=mohammad87115&data=repositories,commits&theme=viridescent" alt="Github Profile"/>
+    <img width="100dvw" src="https://github-widgetbox.vercel.app/api/profile?username=mohammad87115&data=repositories,commits&theme=viridescent" alt="Github Profile"/>
   </a>
 </p>
 
 <p align="center">
-  <img width="80%" src="https://skillicons.dev/icons?i=js,nodejs,python,mysql,postgresql,mongodb,git,docker,linux,vscode,vim,neovim" alt="Tools"/>
+  <img width="100dvw" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,mysql,postgres,mongodb,git,docker,linux,vscode" alt="Tools"/>
 </p>
 <br>
 <p align="center">
