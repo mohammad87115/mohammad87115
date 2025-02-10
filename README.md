@@ -1,15 +1,15 @@
 <p align="center">
   <a href="https://github.com/mohammad87115">
-    <img width="100dvw" src="https://github-widgetbox.vercel.app/api/profile?username=mohammad87115&data=repositories,commits&theme=viridescent" alt="Github Profile"/>
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=mohammad87115&data=repositories,commits&theme=viridescent" alt="Github Profile"/>
   </a>
 </p>
 
 <p align="center">
-  <img width="100dvw" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,mysql,postgres,mongodb,git,docker,linux,vscode" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,mysql,postgres,mongodb,git,docker,linux,vscode" alt="Tools"/>
 </p>
 <br>
 <p align="center">
-  <img height='170' src="https://github-readme-stats.vercel.app/api?username=mohammad87115&count_private=true&show_icons=true&title_color=57ff8c&text_color=c9d1d9&icon_color=57ff8c&border_color=30363d&bg_color=161b22" alt="User stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammad87115&count_private=true&show_icons=true&title_color=57ff8c&text_color=c9d1d9&icon_color=57ff8c&border_color=30363d&bg_color=161b22" alt="User stats" />
 </p>
 
 <p align="center">
