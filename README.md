@@ -7,13 +7,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,mysql,postgres,mongodb,git,docker,linux,vscode" alt="Tools"/>
 </p>
-<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammad87115&count_private=true&show_icons=true&title_color=57ff8c&text_color=c9d1d9&icon_color=57ff8c&border_color=30363d&bg_color=161b22" alt="User stats" />
 </p>
 
 <p align="center">
   <a href="https://github.com/mohammad87115">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad87115&theme=github-compact&color=57ff8c&line=57ff8c&point=57ff8c&area_color=57ff8c" alt="Github activity graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad87115&theme=github-compact&color=57ff8c&line=57ff8c&point=57ff8c&area_color=57ff8c" alt="Github activity graph"/>
   </a>
 </p>
